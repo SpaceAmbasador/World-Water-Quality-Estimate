@@ -33,7 +33,7 @@ n_estimators = 100, max_features = 'log2', max_depth = 13
 - Generated visuals: potability_pie_chart.html, confusion matrices, feature plots
 ## How to Run
 ```bash
-git clone https://github.com/<Eren Erpay>/world-water-quality.git
+git clone https://github.com/<erenerpay>/world-water-quality.git
 cd world-water-quality
 pip install -r Requirements.txt
 python World_Water_Quality_Estimate.py
