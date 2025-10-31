@@ -1,0 +1,6 @@
+LIBRARYS
+Pandas 
+Numpy
+Seaborn
+matplotlib.pylot
+missingno 
